@@ -16,6 +16,5 @@ dependencies:
 - wheel=0.29.0=py35_0
 - xz=5.0.5=1
 - zlib=1.2.8=3
-# - pip:
-#   - git+git://github.com/cthurau/pymf@master
-
+- pip:
+    python-coveralls==2.7.0
