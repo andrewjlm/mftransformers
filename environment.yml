@@ -17,4 +17,4 @@ dependencies:
 - xz=5.0.5=1
 - zlib=1.2.8=3
 - pip:
-    python-coveralls==2.7.0
+    - python-coveralls==2.7.0
